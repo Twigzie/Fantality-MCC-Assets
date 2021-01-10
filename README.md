@@ -30,4 +30,4 @@ A complete list of things to be added
 	- MCC
 	- MISC  (Special Menus)
 	- EXAMPLES (Thumbnail)
-		- ![alt text]https://raw.githubusercontent.com/Twigzie/Fantality-MCC-Assets/main/assets/images/icons/thumbnail-do-not-use.png "MCC Menu (one of)")
+		- ![alt text](https://raw.githubusercontent.com/Twigzie/Fantality-MCC-Assets/main/assets/images/icons/thumbnail-do-not-use.png "MCC Menu (one of)")
